@@ -1,3 +1,8 @@
 # SampleLiveActivitiesShortcut
-This sample IOS App demonstrates how to create a shortcut which can trigger a live activity to start via a LiveActivityStartingIntent.
-The shortcut could then be used to be triggered manually or by automation .
+
+A sample iOS app developed using SwiftUI, Swift, and WidgetKit. The primary feature of this app is to trigger an iOS live activity through a shortcut using `LiveActivityStartingIntent`.
+
+## Features
+
+- **Live Activity Trigger**: Allows users to start a live activity via an iOS shortcut.
+- **WidgetKit Integration**: Built with WidgetKit to provide quick access to app functionalities.
